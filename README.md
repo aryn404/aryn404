@@ -50,4 +50,6 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/aryn404/aryn404/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryn404/aryn404/output/github-snake.svg">
+</p>
