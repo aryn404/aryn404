@@ -10,8 +10,6 @@
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,java,react,nodejs,html,css,mysql,git,aws" />
 </p>
