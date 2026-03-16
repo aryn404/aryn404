@@ -47,3 +47,7 @@
 </a>
 
 </p>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/aryn404/aryn404/blob/output/github-contribution-grid-snake.svg)
