@@ -16,10 +16,9 @@
 
 ## 🔥 Projects
 
-- Full Stack E-commerce
-- AI Finance Assistant
-- Weather App
-- ML Price Predictor
+- AI Powered Lost & Found
+- Gamified Financial Trap Simulator
+- AWS and Blockchain based AI-Powered Cyber Attack Detection System
 
 ---
 
